@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Experiment 15 – E-commerce Catalog with Nested Variants and MVC
 
 A beginner-friendly MongoDB + Express experiment implementing a persistent e-commerce catalog with nested variants (color, size, stock) and a simple MVC structure.
@@ -158,3 +159,7 @@ Open browser: [http://localhost:3000](http://localhost:3000)
 - Implement pagination & sorting.
 - Enhance variant filtering (e.g., multiple colors/sizes).
 - Integrate with frontend (React/Vue/Angular).
+=======
+# MongoDb-5.1-
+Create a Node.js application that connects to a MongoDB database using Mongoose. Define a Product model with properties such as name, price, and category. Implement routes or functions to perform CRUD operations: add a new product, retrieve all products, update a product by its ID, and delete a product by its ID. 
+>>>>>>> ac9c80d01dc99f96a5da59be1f60c035fbb6340d
